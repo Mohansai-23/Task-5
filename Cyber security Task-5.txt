@@ -1,0 +1,6 @@
+* Download Wireshark and install, once installed open the Wireshark.
+* Upon opening we can see the active interfaces like Wi-Fi, now double click to start capture.
+* Now open command prompt and ping google.com.
+* Now to stop the capture click red square stop button on the left capture.
+* Once stopped, in the protocols filter all the HTTP(Web traffic requests and responses), TCP(Establishing connections for web traffic ), ICMP traffics are capture.
+* Now save the file with .pcap extension.
